@@ -16,22 +16,22 @@ I used this files and added a white sprite file.
 
 ## Usage
 
-* Copy files in "img" and glyphicons.css in "css" to some place 
-  in your website.
+Copy files in "img" and glyphicons.css in "css" to some place 
+in your website.
 
-* Change the relative path in glyphicons.css to point your 
-  sprite image files.
+Change the relative path in glyphicons.css to point your 
+sprite image files.
 
-* Import glyphicons.css in your page like this:
+Import glyphicons.css in your page like this:
 
-    <link href="/path/to/glyphicons.css" rel="stylesheet" />
+	<link href="/path/to/glyphicons.css" rel="stylesheet" />
 
-* Display glyphicons:
+Display glyphicons:
 
-    <i class="glyphicon-[icon_name]"></i>
-    <i class="w-glyphicon-[icon_name]"></i>
+	<i class="glyphicon-[icon_name]"></i>
+	<i class="w-glyphicon-[icon_name]"></i>
 
-  Class whih the "w-" prefix will display white icon.
+Class whih the "w-" prefix will display white icon.
 
 ## Note
 
