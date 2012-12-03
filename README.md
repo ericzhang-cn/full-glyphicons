@@ -31,7 +31,7 @@ Display glyphicons:
 	<i class="glyphicon-[icon_name]"></i>
 	<i class="w-glyphicon-[icon_name]"></i>
 
-Class whih the "w-" prefix will display white icon.
+Class with the "w-" prefix will display white icon.
 
 ## Note
 
