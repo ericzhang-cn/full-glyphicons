@@ -19,7 +19,7 @@ I used this files and added a white sprite file.
 Copy files in "img" and glyphicons.css in "css" to some place 
 in your website.
 
-Change the relative path in glyphicons.css to point your 
+Change the relative path in glyphicons.css to point to your 
 sprite image files.
 
 Import glyphicons.css in your page like this:
@@ -31,7 +31,7 @@ Display glyphicons:
 	<i class="glyphicon-[icon_name]"></i>
 	<i class="w-glyphicon-[icon_name]"></i>
 
-Class with the "w-" prefix will display white icon.
+Class with the "w-" prefix will displays white icon.
 
 ## Note
 
