@@ -29,9 +29,9 @@ Import glyphicons.css in your page like this:
 Display glyphicons:
 
 	<i class="icon-g-[icon_name]"></i>
-	<i class="icon-g-[icon_name] icon-white"></i>
+	<i class="icon-g-[icon_name] icon-g-white"></i>
 
-Add "icon-white" class will displays white icon.
+Add "icon-g-white" class will displays white icon.
 
 ## Note
 
