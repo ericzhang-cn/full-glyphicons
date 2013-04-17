@@ -28,10 +28,10 @@ Import glyphicons.css in your page like this:
 
 Display glyphicons:
 
-	<i class="glyphicon-[icon_name]"></i>
-	<i class="w-glyphicon-[icon_name]"></i>
+	<i class="icon-g-[icon_name]"></i>
+	<i class="icon-g-[icon_name] icon-g-white"></i>
 
-Class with the "w-" prefix will displays white icon.
+Add "icon-g-white" class will displays white icon.
 
 ## Note
 
