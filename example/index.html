@@ -3,8 +3,8 @@
     <head>
         <title>Full glyphicons</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <link rel="stylesheet" href="../css/glyphicons.css" >
         <link rel="stylesheet" href="./css/bootstrap.min.css">
+        <link rel="stylesheet" href="../css/glyphicons.css" >
 
         <style>
             body{
@@ -44,7 +44,7 @@
     <script>
 
         function matchStyle(className) {
-            var classes = document.styleSheets[0].rules || document.styleSheets[0].cssRules
+            var classes = document.styleSheets[1].rules || document.styleSheets[1].cssRules;
             var result = [];
             for (var x = 0; x < classes.length; x++) {
                 if (-1 < classes[x].selectorText.indexOf(className)) {
@@ -55,7 +55,7 @@
             return result;
         }
 
-        var $iconList = matchStyle('.glyphicon-');
+        var $iconList = matchStyle('.icon-g-');
         var $grid = $('#icon_grid ul');
         for (var key in $iconList) {
             var icon = $iconList[key];
