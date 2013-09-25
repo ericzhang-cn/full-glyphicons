@@ -1,0 +1,16 @@
+{
+    "name": "ericzhang-cn/full-glyphicons"
+  , "description": "This project makes full glyphicons (420) available at Bootstrap."
+  , "keywords": ["bootstrap", "css", "icons"]
+  , "homepage": "https://github.com/ericzhang-cn/full-glyphicons"
+  , "authors": [
+      {
+        "name": "Eric Zhang",
+        "email": "ericzhang.buaa@gmail.com"
+      }
+    ]
+  , "support": {
+      "issues": "https://github.com/ericzhang-cn/full-glyphicons/issues"
+    }
+  , "license": "CC-BY-3.0"
+}
